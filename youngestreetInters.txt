@@ -1,0 +1,946 @@
+Mill Street & Yonge Street
+Mill Street & Yonge Street (1)
+Donwoods Drive & Yonge Street
+Ivor Road & Yonge Street
+Old York Mills Road & Yonge Street
+Yonge Street & Fairlawn Avenue
+Yonge Street & Snowdon Avenue
+Yonge Street & St. Germain Avenue
+Yonge Street & Golfdale Road
+Yonge Street & Melrose Avenue
+Yonge Street & Teddington Park Avenue
+Yonge Street & Teddington Park Avenue (1)
+Yonge Street & Glen Echo Road
+Yonge Street & Lake Shore Boulevard East & Harbour Street
+Yonge Street & Saint Clair Avenue East & Saint Clair Avenue West
+Yonge Street & Charles Street West & Charles Street East
+Yonge Street & Grenville Street
+Yonge Street & Eglinton Avenue East & Eglinton Avenue West
+Yonge Street & Finch Avenue East & Finch Avenue
+Yonge Street & Scollard Street
+Yonge Street & Aylmer Avenue & Belmont Street
+Yonge Street & Davenport Road & Church Street
+Yonge Street & Collier Street
+Yonge Street & Bloor Street East & Bloor Street West
+Yonge Street & Dundas Street West & Dundas Street East
+Yonge Street & Queen Street West & Queen Street East
+Yonge Street & Melinda Street & Colbourne Street
+Yonge Street & Adelaide Street West & Adelaide Street East
+Yonge Street & Temperance Street
+Yonge Street & College Street & Carlton Street
+Yonge Street & Gould Street
+Yonge Street & Wellesley Street East & Wellesley Street West
+Yonge Street & Gerrard Street West & Gerrard Street East
+Yonge Street & Grosvenor Street & Alexander Street
+Yonge Street & Wood Street
+Yonge Street & Breadalbane Street & Maitland Street
+Yonge Street & Irwin Avenue & Gloucester Street
+Yonge Street & St. Mary Street
+Yonge Street & Hayden Street
+Yonge Street & Isabella Street
+Yonge Street & Summerhill Avenue
+Yonge Street & Jackes Avenue & Farnham Avenue
+Yonge Street & Rosehill Avenue
+Yonge Street & Pleasant Boulevard
+Yonge Street & Crescent Road
+Yonge Street & Roxborough Street East
+Yonge Street & Shaftesbury Avenue
+(unknown) & Yonge Street & Moore Park Avenue
+Yonge Street & Goulding Avenue
+Yonge Street & Homewood Avenue
+Yonge Street & Patricia Avenue
+Yonge Street & Connaught Avenue
+Yonge Street & Cummer Avenue
+Yonge Street & Cummer Avenue & Drewry Avenue
+Yonge Street & Hendon Avenue & Bishop Avenue
+Yonge Street
+Yonge Street & Cameron Avenue
+Yonge Street & Franklin Avenue
+(unknown) & Yonge Street
+(unknown) & Yonge Street (1)
+Yonge Street & Highway 401 Eastbound/Lord Seaton Road
+Yonge Street & Highway 401 Eastbound/Lord Seaton Road (1)
+(unknown) & Yonge Street (2)
+Yonge Street & Pleasant Avenue & Newton Drive
+Yonge Street & Rowanwood Avenue & MacPherson Avenue
+Yonge Street & Balmoral Avenue
+Yonge Street & Dundonald Street
+Yonge Street & Nipigon Avenue
+Yonge Street & Abitibi Avenue
+(unknown) & Yonge Street & Athabaska Avenue
+(unknown) & Yonge Street & Otonabee Avenue
+(unknown) & Yonge Street & Madawaska Avenue
+Yonge Street & Centre Avenue
+Yonge Street & Wedgewood Drive
+Yonge Street & Bishop Avenue
+Yonge Street & Avondale Avenue & Florence Avenue
+Yonge Street & Glendora Avenue & Johnston Avenue
+(unknown) & Yonge Street & Elmhurst Avenue
+(unknown) & Yonge Street & Greenfield Avenue
+Yonge Street & Spring Garden Avenue
+Yonge Street & Spring Garden Avenue (1)
+Yonge Street & Hollywood Avenue
+Yonge Street & Hollywood Avenue (1)
+(unknown) & Yonge Street (3)
+(unknown) & Yonge Street (4)
+(unknown) & Yonge Street & GO/YRT/VIVA Bus Terminal
+Yonge Street (1)
+(unknown) & Yonge Street (5)
+Yonge Street & William Carson Crescent
+Yonge Street & Frichot Avenue
+Yonge Street & Yorkville Avenue
+Yonge Street & Saint Clair Avenue East & Saint Clair Avenue West (1)
+Yonge Street & Marlborough Avenue & Price Street
+Yonge Street & Birch Avenue
+Yonge Street & Walker Avenue
+Yonge Street & Lord Seaton Road
+Yonge Street & King Street West & King Street East
+Yonge Street & Lytton Boulevard
+Yonge Street & Chatsworth Drive & St. Edmund's Drive
+Yonge Street & Saint Clements Avenue
+(unknown) & Yonge Street & Garden Avenue
+(unknown) & Yonge Street & Garden Avenue (1)
+Yonge Street (2)
+(unknown) & Yonge Street & Langstaff Road East
+(unknown) & Yonge Street (6)
+(unknown) & Yonge Street (7)
+(unknown) & Yonge Street (8)
+(unknown) & Yonge Street (9)
+(unknown) & Yonge Street (10)
+(unknown) & Yonge Street (11)
+(unknown) & Yonge Street (12)
+Yonge Street & Glebe Road West
+Yonge Street & Lawton Boulevard
+Yonge Street & Heath Street West
+(unknown) & Yonge Street (13)
+Yonge Street & 16th Avenue & Carrville Road
+Yonge Street & Hillsdale Avenue East
+Yonge Street & Manor Road West & Manor Road East
+Yonge Street & Belsize Drive
+Yonge Street & Millwood Road
+Yonge Street & Balliol Street
+Yonge Street & Merton Street
+Yonge Street & Glebe Road East
+Yonge Street & Davisville Avenue & Chaplin Crescent
+Yonge Street & Lola Road
+Yonge Street & Heath Street East
+Yonge Street & Glen Elm Avenue
+Yonge Street & Queen's Quay West & Queen's Quay East
+Yonge Street (3)
+(unknown) & Yonge Street (14)
+(unknown) & Yonge Street (15)
+(unknown) & Yonge Street (16)
+(unknown) & Yonge Street (17)
+Yonge Street & Olive Avenue & Tolman Street
+(unknown) & Yonge Street & Churchill Avenue
+(unknown) & Yonge Street & Church Avenue
+Yonge Street & Byng Avenue
+Yonge Street & Sherwood Avenue & Briar Hill Avenue
+Yonge Street & Blythwood Road
+Yonge Street & Strathgowan Avenue
+Yonge Street & Glengrove Avenue West & Glengrove Avenue East
+Yonge Street & Hillcrest Avenue
+Yonge Street & Hillcrest Avenue (1)
+Yonge Street & Kingsdale Avenue
+Yonge Street & Kingsdale Avenue (1)
+Yonge Street & Parkview Avenue
+Yonge Street & McKee Avenue
+Yonge Street & Holmes Avenue
+Yonge Street & Lake Shore Boulevard West & Lake Shore Boulevard East
+Yonge Street & Scrivener Square
+Yonge Street & Alcorn Avenue
+Yonge Street & Woodlawn Avenue East & Woodlawn Avenue West
+Yonge Street & Gibson Avenue
+Yonge Street & Pears Avenue
+Yonge Street & Lympstone Avenue
+Yonge Street & Ramsden Park Road
+Yonge Street & Walton Street
+(unknown) & Yonge Street & North York Boulevard
+(unknown) & Yonge Street & Elmwood Avenue
+(unknown) & Yonge Street & Poyntz Avenue
+Yonge Street & Harlandale Avenue
+Yonge Street & Harlandale Avenue (1)
+Yonge Street & Bogert Avenue
+Yonge Street & Bowood Avenue
+Yonge Street & Roslin Avenue
+Yonge Street & Glenforest Road
+Yonge Street & Dundas Square
+Yonge Street & Deloraine Avenue
+(unknown) & Yonge Street & Yonge Boulevard
+Yonge Street & McNairn Avenue
+Yonge Street & Cranbrooke Avenue
+Yonge Street & Bedford Park Avenue
+Yonge Street & Albertus Avenue
+Yonge Street & Edward Street
+Yonge Street & Elm Street
+Yonge Street & Front Street West & Front Street East
+Yonge Street (4)
+Yonge Street (5)
+Yonge Street & Wellington Street West & Wellington Street East
+Yonge Street (6)
+Yonge Street (7)
+(unknown) & Yonge Street (18)
+(unknown) & Yonge Street (19)
+Yonge Street & Access to Canadian Tire Auto Service
+Yonge Street & Baxter Street
+Yonge Street & GO Union Bus Terminal
+(unknown) & Yonge Street & Shuter Street
+Yonge Street & Upper Madison Avenue
+Yonge Street & Upper Madison Avenue (1)
+Yonge Street & Alexander Muir Road
+Yonge Street (8)
+Yonge Street (9)
+Yonge Street (10)
+Yonge Street (11)
+Yonge Street (12)
+(unknown) & Yonge Street & Oxford Street
+Yonge Street & Levendale Road
+Yonge Street & Levendale Road (1)
+Yonge Street & Hunt Avenue
+Yonge Street & Benson Avenue
+Yonge Street & Trayborn Drive
+(unknown) & Yonge Street & Bernard Avenue
+Yonge Street & Centre Street West & Centre Street East
+(unknown) & Yonge Street & Industrial Road
+(unknown) & Yonge Street & McGlashan Court
+Yonge Street & McGlashan Court
+Yonge Street & Bedford Park Avenue (1)
+Yonge Street & Wright Street & Dunlop Street
+Yonge Street & Elmwood Avenue & Atkinson Street
+(unknown) & Yonge Street & Harding Boulevard
+Yonge Street & Leonard Street
+(unknown) & Yonge Street & Centre Street
+(unknown) & Yonge Street & Yongehurst Road
+(unknown) & Yonge Street & Baif Boulevard
+(unknown) & Yonge Street & Gamble Road
+Yonge Street & Asquith Avenue
+Yonge Street (13)
+Yonge Street (14)
+Yonge Street & Crestwood Road
+Yonge Street (15)
+Yonge Street (16)
+Yonge Street (17)
+Yonge Street (18)
+Yonge Street (19)
+(unknown) & Yonge Street (20)
+(unknown) & Yonge Street (21)
+(unknown) & Yonge Street (22)
+Yonge Street (20)
+Yonge Street & Roosevelt Drive
+Yonge Street & Roosevelt Drive (1)
+Yonge Street & Edgar Avenue & Dalemount Gate
+Yonge Street & Westwood Lane & Beresford Drive
+Yonge Street (21)
+Yonge Street & Cumberland Street
+Yonge Street (22)
+Yonge Street (23)
+Yonge Street (24)
+Yonge Street & Finch Avenue West & Finch Avenue
+Yonge Street (25)
+Yonge Street (26)
+(unknown) & Yonge Street (23)
+(unknown) & Yonge Street (24)
+(unknown) & Yonge Street (25)
+(unknown) & Yonge Street (26)
+Yonge Street & Arnold Crescent & Lorne Avenue
+Yonge Street & Holy Cross Catholic Cemetery
+Yonge Street & Finch Passenger Pick-Up/Drop-Off
+Yonge Street & Richmond Street East & Richmond Street West
+Yonge Street (27)
+Yonge Street (28)
+Yonge Street (29)
+Yonge Street (30)
+Yonge Street (31)
+Yonge Street (32)
+Yonge Street & Richmond Street
+Yonge Street & Davisville Bus Terminal
+Yonge Street (33)
+Yonge Street (34)
+Yonge Street & Davisville Bus Terminal (1)
+(unknown) & Yonge Street (27)
+Yonge Street & Sheldrake Boulevard
+Yonge Street & Montgomery Avenue & Broadway Avenue
+Yonge Street & Yonge Street North
+Yonge Street (35)
+Yonge Street (36)
+Yonge Street (37)
+(unknown) & Yonge Street & Glen Cameron Road
+Steeles Avenue West & Yonge Street & Steeles Avenue
+Yonge Street (38)
+(unknown) & Yonge Street (28)
+Yonge Street & Helen Avenue
+Yonge Street & Spruce Avenue
+Yonge Street & Northern Heights Drive & Oak Avenue
+Yonge Street & Old Jane Street
+Yonge Street & Steeles Avenue East & Steeles Avenue
+Steeles Avenue West & Yonge Street & Steeles Avenue (1)
+Yonge Street & Jefferson Forest Drive & Tower Hill Road
+(unknown) & Yonge Street & Nottingham Drive
+Yonge Street & Uplands Avenue
+Yonge Street & Mackay Drive
+Yonge Street & Colbourne Street
+Yonge Street & Kirk Drive
+(unknown) & Yonge Street & Devonsleigh Boulevard
+Yonge Street & Horsham Avenue & Northtown Way
+Yonge Street & Naughton Drive
+(unknown) & Yonge Street & Thornhill Summit Drive
+Yonge Street & Brookside Road & Silverwood Avenue
+Yonge Street & Silverwood Avenue
+Yonge Street & Thornhill Avenue & Bay Thorn Drive
+Yonge Street & Kempford Boulevard
+Yonge Street (39)
+Yonge Street & Kempford Boulevard (1)
+Yonge Street (40)
+Yonge Street (41)
+Yonge Street (42)
+Yonge Street (43)
+Yonge Street (44)
+Yonge Street (45)
+Yonge Street (46)
+Yonge Street (47)
+Yonge Street (48)
+Yonge Street (49)
+Yonge Street (50)
+Yonge Street (51)
+Yonge Street (52)
+Yonge Street & Scott Drive & Bantry Avenue
+Yonge Street & High Tech Road
+Yonge Street & High Tech Road (1)
+Yonge Street & William Carson Crescent (1)
+Yonge Street & Cheritan Avenue
+Yonge Street & Steeles Avenue East & Steeles Avenue (1)
+Yonge Street (53)
+Yonge Street (54)
+Yonge Street (55)
+Yonge Street (56)
+Yonge Street (57)
+Yonge Street & Highland Park Boulevard
+Yonge Street & Woodward Avenue
+Yonge Street & Thornridge Drive
+Yonge Street & Sheppard Avenue West & Sheppard Avenue
+Yonge Street & Sheppard Avenue West & Sheppard Avenue (1)
+(unknown) & Yonge Street (29)
+Yonge Street (58)
+Yonge Street (59)
+Yonge Street (60)
+Yonge Street (61)
+(unknown) & Yonge Street & Park Home Avenue
+Yonge Street & Sheppard Avenue East & Sheppard Avenue
+Yonge Street & Sheppard Avenue East & Sheppard Avenue (1)
+(unknown) & Yonge Street (30)
+Yonge Street (62)
+(unknown) & Yonge Street (31)
+Yonge Street (63)
+Yonge Street (64)
+Yonge Street (65)
+Yonge Street (66)
+Yonge Street (67)
+Yonge Street (68)
+Yonge Street (69)
+Yonge Street (70)
+(unknown) & Yonge Street & Empress Avenue
+Yonge Street (71)
+Yonge Street (72)
+(unknown) & Yonge Street (32)
+Yonge Street (73)
+Yonge Street (74)
+Yonge Street (75)
+Yonge Street & Ellerslie Avenue
+Yonge Street & Norton Avenue
+Yonge Street (76)
+Yonge Street (77)
+Yonge Street (78)
+Yonge Street (79)
+Yonge Street (80)
+Yonge Street (81)
+Yonge Street & Lake Shore Boulevard West
+Yonge Street & Morgan Avenue
+Yonge Street & Meadowview Avenue
+Yonge Street & Grandview Avenue
+Yonge Street & Glen Cameron Road
+Yonge Street (82)
+(unknown) & Yonge Street & Meadowview Avenue
+Yonge Street (83)
+(unknown) & Yonge Street (33)
+Yonge Street (84)
+Yonge Street (85)
+Yonge Street (86)
+Yonge Street (87)
+Yonge Street & Clark Avenue West & Clark Avenue
+Yonge Street (88)
+Yonge Street & Clark Avenue
+Yonge Street (89)
+Yonge Street (90)
+(unknown) & Yonge Street (34)
+(unknown) & Yonge Street (35)
+(unknown) & Yonge Street (36)
+(unknown) & Yonge Street (37)
+(unknown) & Yonge Street & Arnold Avenue
+Yonge Street (91)
+(unknown) & Yonge Street & Elgin Street
+Yonge Street (92)
+Yonge Street (93)
+(unknown) & Yonge Street (38)
+Yonge Street (94)
+Yonge Street (95)
+Yonge Street (96)
+Yonge Street (97)
+Yonge Street (98)
+Yonge Street & John Street
+Yonge Street (99)
+(unknown) & Yonge Street & John Street
+Yonge Street (100)
+(unknown) & Yonge Street (39)
+(unknown) & Yonge Street (40)
+Yonge Street (101)
+(unknown) & Yonge Street (41)
+Yonge Street (102)
+Yonge Street & Uplands Avenue (1)
+Yonge Street (103)
+(unknown) & Yonge Street (42)
+Yonge Street & Bunker Road
+(unknown) & Yonge Street & Royal Orchard Boulevard
+(unknown) & Yonge Street (43)
+(unknown) & Yonge Street (44)
+Yonge Street & Royal Orchard Boulevard
+Yonge Street (104)
+(unknown) & Yonge Street (45)
+(unknown) & Yonge Street (46)
+(unknown) & Yonge Street (47)
+(unknown) & Yonge Street (48)
+Yonge Street & Lawrence Avenue East & Lawrence Avenue West
+Yonge Street & Lawrence Avenue East & Lawrence Avenue West (1)
+Yonge Street & Du Maurier Boulevard
+(unknown) & Yonge Street (49)
+(unknown) & Yonge Street (50)
+(unknown) & Yonge Street (51)
+Yonge Street & Harbour Street
+Yonge Street (105)
+Yonge Street & Ranleigh Avenue
+Yonge Street & Woburn Avenue
+Yonge Street & Brookdale Avenue
+Yonge Street & Roselawn Avenue
+Yonge Street & Castlefield Avenue
+Yonge Street & Craighurst Avenue
+Yonge Street (106)
+Yonge Street (107)
+Yonge Street (108)
+Yonge Street & Alexandra Boulevard
+Yonge Street & Glencairn Avenue
+Yonge Street (109)
+Yonge Street & Helendale Avenue
+Yonge Street (110)
+Yonge Street (111)
+Yonge Street (112)
+Yonge Street (113)
+Yonge Street (114)
+Yonge Street (115)
+Yonge Street (116)
+Yonge Street (117)
+Yonge Street (118)
+Yonge Street (119)
+Yonge Street & Chloe Millway
+Yonge Street (120)
+Yonge Street (121)
+(unknown) & Yonge Street (52)
+(unknown) & Yonge Street (53)
+Yonge Street (122)
+Yonge Street (123)
+(unknown) & Yonge Street (54)
+Yonge Street (124)
+Yonge Street (125)
+Yonge Street & York Mills GO Bus Terminal
+Yonge Street (126)
+Yonge Street (127)
+(unknown) & Yonge Street & York Mills Road
+Yonge Street (128)
+(unknown) & Yonge Street & Wilson Avenue
+Yonge Street (129)
+Yonge Street & Roxborough Street West
+Yonge Street & Longbridge Road
+Yonge Street (130)
+Yonge Street (131)
+Yonge Street (132)
+Yonge Street (133)
+Yonge Street (134)
+(unknown) & Yonge Street (55)
+Yonge Street (135)
+Yonge Street (136)
+(unknown) & Yonge Street & Harding Boulevard West
+Yonge Street & Tower Hill Road
+Yonge Street & Autumn Grove
+Yonge Street & Townwood Drive
+Yonge Street & Townwood Drive (1)
+Yonge Street (137)
+(unknown) & Yonge Street (56)
+Yonge Street (138)
+Yonge Street (139)
+Yonge Street (140)
+Yonge Street (141)
+Yonge Street (142)
+(unknown) & Yonge Street (57)
+(unknown) & Yonge Street (58)
+(unknown) & Yonge Street (59)
+Yonge Street (143)
+Yonge Street (144)
+Yonge Street (145)
+Yonge Street (146)
+(unknown) & Yonge Street (60)
+Yonge Street (147)
+Yonge Street (148)
+Yonge Street & Elgin Mills Road East & Elgin Mills Road West
+(unknown) & Yonge Street (61)
+Yonge Street (149)
+Yonge Street (150)
+Yonge Street (151)
+(unknown) & Yonge Street (62)
+Yonge Street & Elgin Mills Road East
+Yonge Street (152)
+Yonge Street (153)
+Yonge Street (154)
+(unknown) & Yonge Street & Canyon Hill Avenue
+(unknown) & Yonge Street (63)
+(unknown) & Yonge Street (64)
+(unknown) & Yonge Street (65)
+Yonge Street & Elgin Mills Road West
+Yonge Street & Elgin Mills Road East & Elgin Mills Road West (1)
+Yonge Street (155)
+Yonge Street (156)
+Yonge Street (157)
+Yonge Street (158)
+Yonge Street (159)
+(unknown) & Yonge Street (66)
+(unknown) & Yonge Street (67)
+(unknown) & Yonge Street (68)
+(unknown) & Yonge Street (69)
+(unknown) & Yonge Street (70)
+(unknown) & Yonge Street (71)
+(unknown) & Yonge Street (72)
+(unknown) & Yonge Street (73)
+Yonge Street (160)
+Yonge Street (161)
+Yonge Street (162)
+(unknown) & Yonge Street (74)
+(unknown) & Yonge Street (75)
+Yonge Street (163)
+Yonge Street (164)
+Yonge Street (165)
+(unknown) & Yonge Street (76)
+(unknown) & Yonge Street (77)
+Yonge Street (166)
+Yonge Street (167)
+Yonge Street (168)
+Yonge Street (169)
+(unknown) & Yonge Street (78)
+Yonge Street (170)
+Yonge Street (171)
+(unknown) & Yonge Street (79)
+Yonge Street (172)
+Yonge Street (173)
+Yonge Street & Major Mackenzie Drive West & Major Mackenzie Drive East
+Yonge Street (174)
+Yonge Street (175)
+Yonge Street (176)
+(unknown) & Yonge Street & May Avenue
+Yonge Street & Weldrick Road East & Weldrick Road West
+Yonge Street (177)
+Yonge Street & Weldrick Road East
+Yonge Street (178)
+Yonge Street & Major Mackenzie Drive West & Major Mackenzie Drive East (1)
+Yonge Street & Major Mackenzie Drive West
+Yonge Street (179)
+Yonge Street (180)
+Yonge Street (181)
+(unknown) & Yonge Street & Observatory Lane
+Yonge Street & Weldrick Road East & Weldrick Road West (1)
+Yonge Street & Major Mackenzie Drive West (1)
+Yonge Street (182)
+Yonge Street & Weldrick Road East (1)
+Yonge Street (183)
+Yonge Street (184)
+Yonge Street (185)
+Yonge Street (186)
+(unknown) & Yonge Street (80)
+Yonge Street & Clarissa Drive
+(unknown) & Yonge Street (81)
+Yonge Street & May Avenue
+Yonge Street (187)
+(unknown) & Yonge Street (82)
+Yonge Street (188)
+Yonge Street (189)
+(unknown) & Yonge Street (83)
+Yonge Street (190)
+(unknown) & Yonge Street (84)
+Yonge Street & Imperial Street
+Yonge Street (191)
+Yonge Street & The Esplanade
+Yonge Street (192)
+(unknown) & Yonge Street (85)
+(unknown) & Yonge Street (86)
+(unknown) & Yonge Street (87)
+Yonge Street (193)
+Yonge Street (194)
+Yonge Street (195)
+(unknown) & Yonge Street (88)
+(unknown) & Yonge Street (89)
+Yonge Street (196)
+Yonge Street (197)
+Yonge Street & 16th Avenue & Carrville Road (1)
+(unknown) & Yonge Street (90)
+Yonge Street (198)
+Yonge Street (199)
+Yonge Street (200)
+Yonge Street (201)
+Yonge Street (202)
+(unknown) & Yonge Street (91)
+(unknown) & Yonge Street (92)
+(unknown) & Yonge Street (93)
+(unknown) & Yonge Street (94)
+(unknown) & Yonge Street (95)
+(unknown) & Yonge Street (96)
+Yonge Street & St. Joseph Street
+(unknown) & Yonge Street (97)
+Yonge Street (203)
+Yonge Street (204)
+Yonge Street & Orchard View Boulevard
+Yonge Street (205)
+(unknown) & Yonge Street & Wilson Avenue (1)
+(unknown) & Yonge Street & York Mills Road (1)
+Yonge Street (206)
+(unknown) & Yonge Street (98)
+(unknown) & Yonge Street (99)
+(unknown) & Yonge Street (100)
+Yonge Street & Hillsdale Avenue West
+Yonge Street & Soudan Avenue
+Yonge Street & Roehampton Avenue
+Yonge Street & Erskine Avenue
+Yonge Street & Keewatin Avenue
+(unknown) & Yonge Street (101)
+(unknown) & Yonge Street (102)
+(unknown) & Yonge Street (103)
+(unknown) & Yonge Street (104)
+(unknown) & Yonge Street (105)
+(unknown) & Yonge Street (106)
+Yonge Street & Crosby Avenue
+Yonge Street (207)
+(unknown) & Yonge Street (107)
+Yonge Street (208)
+Yonge Street (209)
+(unknown) & Yonge Street (108)
+Yonge Street (210)
+Yonge Street (211)
+(unknown) & Yonge Street (109)
+Yonge Street (212)
+Yonge Street (213)
+Yonge Street (214)
+Yonge Street (215)
+(unknown) & Yonge Street (110)
+(unknown) & Yonge Street & Gamble Road (1)
+Yonge Street (216)
+Yonge Street (217)
+(unknown) & Yonge Street & 19th Avenue
+(unknown) & Yonge Street & 19th Avenue (1)
+Yonge Street (218)
+Yonge Street (219)
+(unknown) & Yonge Street (111)
+Yonge Street (220)
+Yonge Street (221)
+Yonge Street (222)
+Yonge Street (223)
+Yonge Street (224)
+Yonge Street (225)
+(unknown) & Yonge Street (112)
+Yonge Street (226)
+Yonge Street (227)
+Yonge Street (228)
+Yonge Street (229)
+(unknown) & Yonge Street (113)
+(unknown) & Yonge Street (114)
+(unknown) & Yonge Street (115)
+Yonge Street (230)
+Yonge Street (231)
+Yonge Street (232)
+Yonge Street (233)
+Yonge Street (234)
+Yonge Street (235)
+(unknown) & Yonge Street & Delisle Avenue
+(unknown) & Yonge Street (116)
+Yonge Street (236)
+(unknown) & Yonge Street (117)
+(unknown) & Yonge Street (118)
+Yonge Street & York Mills GO Bus Terminal (1)
+(unknown) & Yonge Street (119)
+(unknown) & Yonge Street (120)
+Yonge Street (237)
+Yonge Street (238)
+Yonge Street (239)
+Yonge Street (240)
+Yonge Street (241)
+Yonge Street (242)
+Yonge Street (243)
+Yonge Street (244)
+Yonge Street (245)
+Yonge Street & Berwick Avenue
+Yonge Street (246)
+Yonge Street (247)
+Yonge Street (248)
+Yonge Street (249)
+Yonge Street (250)
+Yonge Street (251)
+Yonge Street (252)
+Yonge Street (253)
+Yonge Street (254)
+(unknown) & Yonge Street (121)
+Yonge Street (255)
+Yonge Street (256)
+(unknown) & Yonge Street (122)
+Yonge Street (257)
+Yonge Street (258)
+Yonge Street (259)
+Yonge Street (260)
+Yonge Street (261)
+Yonge Street (262)
+Yonge Street (263)
+Yonge Street (264)
+Yonge Street (265)
+Yonge Street (266)
+Yonge Street (267)
+Yonge Street (268)
+Yonge Street (269)
+Yonge Street (270)
+Yonge Street (271)
+Yonge Street (272)
+Yonge Street (273)
+Yonge Street (274)
+Yonge Street (275)
+Yonge Street (276)
+Yonge Street (277)
+Yonge Street (278)
+Yonge Street (279)
+Yonge Street (280)
+Yonge Street (281)
+Yonge Street (282)
+Yonge Street (283)
+Yonge Street (284)
+Yonge Street (285)
+Yonge Street (286)
+Yonge Street (287)
+Yonge Street (288)
+Yonge Street (289)
+Yonge Street (290)
+Yonge Street (291)
+Yonge Street (292)
+Yonge Street (293)
+Yonge Street (294)
+Yonge Street (295)
+Yonge Street (296)
+----------------------------------------------------
+Donwoods Drive & Yonge Street
+Ivor Road & Yonge Street
+Yonge Street & Fairlawn Avenue
+Yonge Street & Snowdon Avenue
+Yonge Street & St. Germain Avenue
+Yonge Street & Golfdale Road
+Yonge Street & Melrose Avenue
+Yonge Street & Teddington Park Avenue
+Yonge Street & Teddington Park Avenue (1)
+Yonge Street & Glen Echo Road
+Yonge Street & Saint Clair Avenue East & Saint Clair Avenue West
+Yonge Street & Charles Street West & Charles Street East
+Yonge Street & Grenville Street
+Yonge Street & Eglinton Avenue East & Eglinton Avenue West
+Yonge Street & Scollard Street
+Yonge Street & Aylmer Avenue & Belmont Street
+Yonge Street & Davenport Road & Church Street
+Yonge Street & Collier Street
+Yonge Street & Bloor Street East & Bloor Street West
+Yonge Street & College Street & Carlton Street
+Yonge Street & College Street & Carlton Street
+Yonge Street & Wellesley Street East & Wellesley Street West
+Yonge Street & Grosvenor Street & Alexander Street
+Yonge Street & Wood Street
+Yonge Street & Breadalbane Street & Maitland Street
+Yonge Street & Irwin Avenue & Gloucester Street
+Yonge Street & St. Mary Street
+Yonge Street & Hayden Street
+Yonge Street & Isabella Street
+Yonge Street & Summerhill Avenue
+Yonge Street & Jackes Avenue & Farnham Avenue
+Yonge Street & Rosehill Avenue
+Yonge Street & Pleasant Boulevard
+Yonge Street & Crescent Road
+Yonge Street & Roxborough Street East
+Yonge Street & Shaftesbury Avenue
+Yonge Street & Rowanwood Avenue & MacPherson Avenue
+Yonge Street & Balmoral Avenue
+Yonge Street & Dundonald Street
+Yonge Street & Frichot Avenue
+Yonge Street & Yorkville Avenue
+Yonge Street & Saint Clair Avenue East & Saint Clair Avenue West (1)
+Yonge Street & Marlborough Avenue & Price Street
+Yonge Street & Birch Avenue
+Yonge Street & Walker Avenue
+Yonge Street & Lytton Boulevard
+Yonge Street & Chatsworth Drive & St. Edmund's Drive
+Yonge Street & Saint Clements Avenue
+Yonge Street & Glebe Road West
+Yonge Street & Lawton Boulevard
+Yonge Street & Heath Street West
+(unknown) & Yonge Street (13)
+Yonge Street & Hillsdale Avenue East
+Yonge Street & Manor Road West & Manor Road East
+Yonge Street & Belsize Drive
+Yonge Street & Millwood Road
+Yonge Street & Balliol Street
+Yonge Street & Merton Street
+Yonge Street & Glebe Road East
+Yonge Street & Davisville Avenue & Chaplin Crescent
+Yonge Street & Lola Road
+Yonge Street & Heath Street East
+Yonge Street & Glen Elm Avenue
+Yonge Street & Sherwood Avenue & Briar Hill Avenue
+Yonge Street & Blythwood Road
+Yonge Street & Strathgowan Avenue
+Yonge Street & Glengrove Avenue West & Glengrove Avenue East
+Yonge Street & Scrivener Square
+Yonge Street & Alcorn Avenue
+Yonge Street & Woodlawn Avenue East & Woodlawn Avenue West
+Yonge Street & Gibson Avenue
+Yonge Street & Pears Avenue
+Yonge Street & Lympstone Avenue
+Yonge Street & Ramsden Park Road
+Yonge Street & Bowood Avenue
+Yonge Street & Roslin Avenue
+Yonge Street & Glenforest Road
+Yonge Street & Deloraine Avenue
+(unknown) & Yonge Street & Yonge Boulevard
+Yonge Street & McNairn Avenue
+Yonge Street & Cranbrooke Avenue
+Yonge Street & Bedford Park Avenue
+Yonge Street & Albertus Avenue
+Yonge Street (7)
+(unknown) & Yonge Street (18)
+(unknown) & Yonge Street (19)
+Yonge Street & Access to Canadian Tire Auto Service
+Yonge Street & Baxter Street
+Yonge Street & Alexander Muir Road
+Yonge Street (8)
+Yonge Street (9)
+Yonge Street (10)
+Yonge Street (11)
+Yonge Street (12)
+Yonge Street & Asquith Avenue
+Yonge Street (21)
+Yonge Street & Cumberland Street
+Yonge Street (22)
+Yonge Street & Davisville Bus Terminal
+Yonge Street (33)
+Yonge Street (34)
+Yonge Street & Davisville Bus Terminal (1)
+(unknown) & Yonge Street (27)
+Yonge Street & Sheldrake Boulevard
+Yonge Street & Montgomery Avenue & Broadway Avenue
+Yonge Street & Cheritan Avenue
+Yonge Street & Lawrence Avenue East & Lawrence Avenue West
+Yonge Street & Lawrence Avenue East & Lawrence Avenue West (1)
+Yonge Street & Du Maurier Boulevard
+Yonge Street & Ranleigh Avenue
+Yonge Street & Woburn Avenue
+Yonge Street & Brookdale Avenue
+Yonge Street & Roselawn Avenue
+Yonge Street & Castlefield Avenue
+Yonge Street & Craighurst Avenue
+Yonge Street (106)
+Yonge Street (107)
+Yonge Street (108)
+Yonge Street & Alexandra Boulevard
+Yonge Street & Glencairn Avenue
+Yonge Street & Helendale Avenue
+Yonge Street (119)
+Yonge Street & Chloe Millway
+Yonge Street (120)
+Yonge Street (121)
+(unknown) & Yonge Street (52)
+(unknown) & Yonge Street (53)
+Yonge Street (122)
+(unknown) & Yonge Street (54)
+(unknown) & Yonge Street (54)
+Yonge Street (129)
+Yonge Street & Roxborough Street West
+Yonge Street (134)
+(unknown) & Yonge Street (55)
+Yonge Street (135)
+Yonge Street (136)
+(unknown) & Yonge Street (84)
+Yonge Street & Imperial Street
+(unknown) & Yonge Street (89)
+Yonge Street (196)
+Yonge Street (197)
+Yonge Street & St. Joseph Street
+Yonge Street (203)
+Yonge Street (204)
+Yonge Street & Orchard View Boulevard
+Yonge Street (205)
+(unknown) & Yonge Street (100)
+Yonge Street & Hillsdale Avenue West
+Yonge Street & Soudan Avenue
+Yonge Street & Roehampton Avenue
+Yonge Street & Erskine Avenue
+Yonge Street & Keewatin Avenue
+Yonge Street (207)
+(unknown) & Yonge Street (107)
+Yonge Street (208)
+Yonge Street (210)
+Yonge Street (221)
+Yonge Street (222)
+Yonge Street (223)
+Yonge Street (224)
+Yonge Street (225)
+(unknown) & Yonge Street (113)
+(unknown) & Yonge Street (114)
+(unknown) & Yonge Street (115)
+Yonge Street (230)
+Yonge Street (231)
+Yonge Street (232)
+Yonge Street (233)
+Yonge Street (234)
+Yonge Street (235)
+(unknown) & Yonge Street & Delisle Avenue
+(unknown) & Yonge Street (116)
+Yonge Street (236)
+Yonge Street (237)
+Yonge Street (238)
+Yonge Street (239)
+Yonge Street (240)
+Yonge Street (241)
+Yonge Street (242)
+Yonge Street (243)
+Yonge Street (244)
+Yonge Street (245)
+Yonge Street & Berwick Avenue
+Yonge Street (246)
+Yonge Street (252)
+Yonge Street (253)
+Yonge Street (254)
+Yonge Street (264)
+Yonge Street (265)
+Yonge Street (266)
+Yonge Street (267)
+Yonge Street (268)
+Yonge Street (270)
+Yonge Street (271)
+Yonge Street (272)
+Yonge Street (273)
+Yonge Street (274)
+Yonge Street (275)
+Yonge Street (276)
+Yonge Street (277)
+Yonge Street (278)
+Yonge Street (279)
+Yonge Street (280)
+Yonge Street (281)
+Yonge Street (282)
+Yonge Street (283)
+Yonge Street (284)
+Yonge Street (295)
+Yonge Street (296)

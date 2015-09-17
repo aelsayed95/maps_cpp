@@ -1,0 +1,42 @@
+Driving directions from:
+Start Intersection Name: Ring Road & Mehwar Saadeldin Al Shazly
+End Intersection Name: Salah Salem & Al-Tayaran
+
+
+The total time to reach the destination is 31 minutes. 
+Start from Ring Road & Mehwar Saadeldin Al Shazly
+Head on Ring Road
+Travel along Ring Road for 1 km. It will take nearly 1 minutes
+Turn right on (unknown)
+
+Travel along (unknown) for 0.86 km. It will take nearly 2 minutes
+Turn left on Ring Road
+
+Travel along Ring Road for 6.7 km. It will take nearly 5 minutes
+Turn  on (unknown)
+
+Travel along (unknown) for 1 km. It will take nearly 2 minutes
+Turn  on Suez Road
+
+Travel along Suez Road for 4.4 km. It will take nearly 7 minutes
+Turn right on (unknown)
+
+Travel along (unknown) for 0.93 km. It will take nearly 2 minutes
+Turn right on Suez Road
+
+Travel along Suez Road for 0.89 km. It will take nearly 2 minutes
+Turn right on (unknown)
+
+Travel along (unknown) for 0.47 km. It will take nearly 1 minutes
+Turn right on Fieldmarshall Abu Ghazala Overpass
+
+Travel along Fieldmarshall Abu Ghazala Overpass for 0.55 km. It will take nearly 1 minutes
+Turn  on Al Nasr Rd
+
+Travel along Al Nasr Rd for 4.3 km. It will take nearly 7 minutes
+Turn right on Yousef Abbas
+
+Travel along Yousef Abbas for 1.4 km. It will take nearly 3 minutes
+Turn  on Salah Salem
+
+Arrive at the destination Salah Salem & Al-Tayaran
